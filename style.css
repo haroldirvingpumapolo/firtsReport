@@ -1,0 +1,36 @@
+
+img{
+  display: block;
+  width: 100%;
+}
+.Box{
+  color: rgb(213, 213, 3);
+  background-color: red;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 6px;
+  align-items: start;
+  flex-wrap: wrap;
+  flex-direction:column;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+}
+#showPokemon{
+  background-color: white;
+  border-radius:10px;
+  padding-left: 45px;
+  padding-right:45px ;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#showStats{
+  background-color: white;
+  border-radius:10px;
+  margin:0px auto
+}
+input{
+  background-color: yellow;
+  margin-left: 27%;
+}
+
+
